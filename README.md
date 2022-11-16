@@ -6,6 +6,7 @@ In order for this project to work, you need to have a google account to access [
 
 To set it up correctly, follow this guide:
 - Clone this project in Android Studio (`File` in the top bar, then `New > Project from Version Control...`)
+- Paste this url: `https://github.com/koeltv/cloud_messaging_demo.git`
 - Go to `Tools` in the top bar, then `Firebase`
 - Click on `Cloud Messaging`, then follow the guide
 
